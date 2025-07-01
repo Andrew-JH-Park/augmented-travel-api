@@ -1,0 +1,21 @@
+# Ignore environment variable files
+.env
+
+# Virtual environment
+venv/
+.env/
+
+# Editor
+.vscode/
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Runtime data
+/data/
+*.db
+
+# Local Documentation
+/documentation/
